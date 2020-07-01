@@ -1,0 +1,10 @@
+[{
+  "modid": "autotip",
+  "name": "Better AutoTip",
+  "description": "Autotip that actually cares about the user",
+  "version": "0.1",
+  "mcversion": "1.8.9",
+  "logoFile": "",
+  "url": "https://ethansite.com",
+  "authorList": ["FallingAnvils"]
+}]
